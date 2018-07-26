@@ -1,5 +1,5 @@
 {
-  "name": "fork-react-native-splash-screen",
+  "name": "react-native-splash-screen",
   "version": "3.1.0",
   "description": "A forked splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "main": "index.js",
@@ -25,7 +25,7 @@
   "author": "crazycodeboy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rsmelo92/react-native-splash-screenissues"
+    "url": "https://github.com/rsmelo92/react-native-splash-screen/issues"
   },
   "peerDependencies": {
     "react-native": ">=0.47.0"
