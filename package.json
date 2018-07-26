@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crazycodeboy/react-native-splash-screen.git"
+    "url": "git+https://github.com/rsmelo92/react-native-splash-screen"
   },
   "keywords": [
     "react-native",
@@ -25,10 +25,10 @@
   "author": "crazycodeboy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/crazycodeboy/react-native-splash-screen/issues"
+    "url": "https://github.com/rsmelo92/react-native-splash-screenissues"
   },
   "peerDependencies": {
     "react-native": ">=0.47.0"
   },
-  "homepage": "https://github.com/crazycodeboy/react-native-splash-screen#readme"
+  "homepage": "https://github.com/rsmelo92/react-native-splash-screen#readme"
 }
