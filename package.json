@@ -1,7 +1,7 @@
 {
-  "name": "react-native-splash-screen",
+  "name": "fork-react-native-splash-screen",
   "version": "3.1.0",
-  "description": "A splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
+  "description": "A forked splash screen for react-native, hide when application loaded ,it works on iOS and Android.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
